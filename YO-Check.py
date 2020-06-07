@@ -55,8 +55,8 @@ def yahoolist():
          print R + '['+ W +'!'+ R +'] '+ W +'File not found'
          exit()
 
-    save = open('output/invalid.txt', 'w')
-    save2 = open('output/valid.txt', 'w')
+    save = open('ALi/ALi-NO.txt', 'w')
+    save2 = open('Ali/ALi-OK.txt', 'w')
     mail = open(files, 'r').readlines()
     for pw in mail:
         mail = pw.replace('\n', '')
@@ -83,7 +83,7 @@ def yahoolist():
                 print W + '[ ' + G + 'GATAU ' + W + '] ' + mail
 
     print 'Program finished'
-    print 'Data saved valid.txt & invalid.txt'
+    print 'Data saved ALi-OK.txt & ALi-NO.txt'
     save.close()
     save2.close()
 
