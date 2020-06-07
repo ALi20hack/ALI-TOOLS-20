@@ -88,7 +88,7 @@ close SSL;
 else
 {
 print "\n########################################################\n";
-print "[+] Yuuup!! Pass Cracked => Pass is $password :D\n";
+print "[+] HackeD!! Pass Cracked => Pass is $password :D\n";
 print "########################################################\n\n";
 close SSL;
 exit;
