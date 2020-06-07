@@ -37,6 +37,12 @@ def banner():
    print W +"      ||   ( )       "+R+"[ "+W+"Info      "+R+": "+W+"Syrian Hacker_2020     "+R+"] "
    print W +"      \\\___// "
    print "       `---' "
+   print "==============================================================          "
+   print "   [-- ALI-MOHAMAD : Facebook & youtube & Github --]         "
+   print "     https://www.facebook.com/ALi20Hack          "
+   print "     https://github.com/Ali20hack          "
+   print "     https://www.youtube.com/channel/UCkOu7kHM1aJkJw87d2FlG9Q          "
+   print "==============================================================          "
    print "             "
 
 
