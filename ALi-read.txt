@@ -33,6 +33,15 @@ HACK ALL MAIL :
 '     10- Best-passlist      '
 +----------------------------+
 ====================================
+install this on your termux :
+apt update
+apt upgrade
+apt install python
+apt install python2
+apt install python3
+apt install perl
+apt install git
+====================================
 How to use the Tools :
 First :
 ^^^^^^^
