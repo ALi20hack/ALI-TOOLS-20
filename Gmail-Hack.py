@@ -10,7 +10,7 @@ import cookielib
  
 GHT = '''
         +=======================================+
-        |.......... Gmail Cracker ALi ..........|
+        |......... Youtube Cracker ALi .........|
         +---------------------------------------+
         |                                       |
         |                                       |
@@ -27,7 +27,7 @@ GHT = '''
         |                                       |
         |                                       |
         +=======================================+
-        |..........   Cracker GMAIL  ...........|
+        |..........   Cracker Youtube  .........|
         +---------------------------------------+
 '''
 print "Note: - This tool can crack Youtube account even if you don't have the email of your victim"
