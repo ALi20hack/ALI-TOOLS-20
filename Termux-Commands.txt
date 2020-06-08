@@ -1,0 +1,94 @@
+Ali-mohamad 2020 : conact with me
+#####################################
+
+        |  __________ooo___ooo                  
+        |  ________ooo__ooo__ooo                
+        |  ________oo__________oo               
+        |  _________oo_______oo                 
+        |  ___________oo___oo                   
+        |  _____________ooo     ^_^!              
+
+
+#####################################
+]---------> 1- Facebook:
+^^^^^^^^^^^^^
+https://www.facebook.com/Ali20Hack
+]---------> 2- Github :
+^^^^^^^^^^^^
+https://github.com/Ali20hack
+]---------> 3- Youtube :
+^^^^^^^^^^^^^
+https://www.youtube.com/channel/UCkOu7kHM1aJkJw87d2FlG9Q
+=============================
+| ALL Commands For Termux :  ALi-Mohamad |
+=============================
++----------------------+ +----------------------------+
+| install :            | |    apt install git         |
+| -python              | |    apt install opensll     |
+| pkg install python   | |    apt install curl        |
+| -perl                | |    apt install php         |
+| pkg install perl     | |    apt install python      |
+| -ruby                | |    apt install perl        |
+| pkg install ruby     | |    apt install ruby        |
+| -wget                | |    apt install wget        |
+| pkg install wget     | |    apt install python2     |
+|______________________| |____________________________+
+
+*********************************
+install /\/\etaSploit on Termux :  
+*********************************
+]-----> pkg install root-repo
+]-----> pka install unstable-repo
+]-----> pkg install ruby 
+]-----> pkg install metasploit
+[][][][][][][][][][][][][][][][][][][]
++====================================+
+| ALL COMMANDS FOR TERMUX :          |
++====================================+
+[][][][][][][][][][][][][][][][][][][]
+[-------------------------]
+[ pkg update              ]
+[ pkg upgrade             ]
+[ pkg install python      ]
+[ pkg install python2     ]
+[ pkg install python3     ]
+[ pkg install ruby        ]
+[ pkg install git         ] 
+[ pkg install php         ] 
+[ pkg install java        ]
+[ Pkg install google      ] 
+[ pkg install bash        ] 
+[ pkg install perl        ]
+[ pkg install nmap        ]
+[ pkg install bash        ]
+[ pkg install clang       ]
+[ pkg install nano        ]
+[ pkg install figlet      ]
+[ pkg install cowsay      ]
+[ pkg install curl        ]
+[ pkg install tar         ]
+[ pkg install zip         ]
+[ pkg install unzip       ]
+[ pkg install tor         ] 
+[ pkg install sudo        ]
+[ pkg install wget        ]
+[ pkg install wcalc       ]
+[ pkg install openssl     ]
+[-------------------------]
+======================================
+  ___    ___ 
+ ( _<    >_ ) 
+ //        \\\ 
+ \\\___..___// 
+   `-(    )-'        
+     _|__|_ 
+    /_|__|_\ 
+    /_|__|_\ 
+    /_\__/_\ 
+     \ || /   _)      
+       ||    ( )      
+       \\\___// 
+         `---' 
+======================================
+|BY ALI-MOHAMAD : Good Bye .!! | ^_* |
+======================================
