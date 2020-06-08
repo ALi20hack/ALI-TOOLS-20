@@ -18,6 +18,8 @@ print("       ||   ( )  ")
 print("       \\\___// ")
 print("        `---' ")
 print("\033[31mALI-HACK :\033[37m Yahoo Hack Account")
+print("Facebook:www.facebook.com/Ali20Hack")
+print("Youtube:https://www.youtube.com/channel/UCkOu7kHM1aJkJw87d2FlG9Q")
 print("===============================")
 
 smtpserver = smtplib.SMTP('smtp.mail.yahoo.com' , 587)
