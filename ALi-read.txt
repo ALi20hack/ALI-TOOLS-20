@@ -5,6 +5,20 @@ FACEBOOK : https://www.facebook.com/Ali20Hack
 GITHUB   : https://github.com/Ali20hack 
 YOUTUBE  : https://www.youtube.com/channel/UCkOu7kHM1aJkJw87d2FlG9Q
 ============
+  ___    ___ 
+ ( _<    >_ ) 
+ //        \\\ 
+ \\\___..___// 
+  `-(    )-'        
+    _|__|_ 
+   /_|__|_\ 
+   /_|__|_\ 
+   /_\__/_\ 
+    \ || /  _)      
+      ||   ( )      
+      \\\___// 
+       `---' 
+============
 HACK ALL MAIL :
 +----------------------------+
 '     1- Facebook            '
@@ -18,4 +32,18 @@ HACK ALL MAIL :
 '     9- Facebook-check      '
 '     10- Best-passlist      '
 +----------------------------+
-GOOD BYE !!
+====================================
+How to use the Tools :
+First :
+^^^^^^^
+chmod +x *
+Second:
+^^^^^^^
+1- All tools finished .py : write : 
+python or python2 or python3 then name tool
+E.X : python2 Gmail-brute.py
+2- All tools finished .pl : write :
+perl nametool
+E.X: perl facebook-brute.pl
+====================================
+GOOD BYE !! 
